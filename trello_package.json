@@ -1,0 +1,15 @@
+{
+  "name": "trello-discord-bot",
+  "version": "1.0.0",
+  "description": "Trello Discord bot for Luna Academy Saga and Siphnos",
+  "main": "trello_bot.js",
+  "scripts": {
+    "start": "node trello_bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
